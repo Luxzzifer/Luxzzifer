@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezra my github username is Luxzzifer</h1>
-<h3 align="center">"Hi,I'm Ezra, known as luxxifer on Github. I'm a self-taught programmer from INDONESIA, passionate about building and exploring the world of code. While not a professional, i'm dedicated to continuous learning"</h3>
+<h3 align="center">"Hi,I'm Ezra, known as Luxzzifer on Github. I'm a self-taught programmer from INDONESIA, passionate about building and exploring the world of code. While not a professional, i'm dedicated to continuous learning"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxzzifer&label=Profile%20views&color=0e75b6&style=flat" alt="luxzzifer" /> </p>
 
